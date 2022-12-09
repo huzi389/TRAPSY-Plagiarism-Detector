@@ -1,0 +1,13 @@
+Intro of Assignment 1
+
+Trapsy is a plagiarism detector system which measures similarity between texts using text mining
+method and detects plagiarism between two documents. This system aims to provide teachers and
+students with a tool that will help teachers to spot copied assignments and helps students to enhance
+their creativity skills. It enables students to think creatively and innovatively thereby reducing copy
+culture. There are many methods to detect plagiarism, this system uses text mining method which
+detects variations in a text writing pattern and search for source by matching the original text. This
+system provides students to create accounts, login and upload assignments and check the percentage
+of plagiarism before submitting their assignments. Teachers can also create links for students to
+upload their assignments and automatically check plagiarism between students’ assignments as well
+as for online sources.
+
